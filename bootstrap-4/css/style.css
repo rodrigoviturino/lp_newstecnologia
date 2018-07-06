@@ -1,0 +1,23 @@
+
+.introducao{
+    background: url(../../img/bg-introducao.png)no-repeat center bottom;
+    background-size: cover;
+    height:780px;
+    width: 100%;
+}
+
+.introducao blockquote .block-p{
+    padding-top: 150px;
+    max-width: 800px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+
+.introducao blockquote p{
+    max-width: 500px;
+    color: #fff;
+    font-family: roboto;
+}
